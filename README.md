@@ -37,3 +37,4 @@ npx create-expo-app <nome-do-projeto> --template
 ```shell
 npx expo start
 ```
+
