@@ -1,12 +1,15 @@
+import PerfilScreen from "./PerfilScreen";
 import Flexbox from "./Flexbox";
+import GaleriaScreen from "./GaleriaScreen";
 import PadraoAndroid from "./PadraoAndroid";
 import PadraoIOS from "./PadraoIOS";
-import GaleriaScreen from "./GaleriaScreen";
 
 function App() {
   return (
-    <GaleriaScreen/>
-    )
+    <PerfilScreen/>
+  );
 }
 
 export default App;
+
+
