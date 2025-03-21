@@ -1,11 +1,9 @@
-import ListScreen from "./Screens/ListScreen";
-import GalleryScreen from "./Screens/GalleryScreen";
-import HomeScreen from "./Screens/HomeScreen";
-import ProfileScreen from "./Screens/ProfileScreen";
+import DetalhesProduto from "../../aulas/aula04/screens/DetalhesProduto";
 
 
-function App () {
-  return <ProfileScreen/>;
-}
+
+function App() {
+  return <DetalhesProduto />
+};
 
 export default App;
