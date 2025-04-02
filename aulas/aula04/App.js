@@ -5,7 +5,7 @@ import RegistrarConta from "./screens/RegistrarContas";
 
 function App(){
   return (
-    <Conversas/>
+    <G/>
   );
 };
 
